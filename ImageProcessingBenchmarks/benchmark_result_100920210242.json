@@ -1,0 +1,677 @@
+[
+  {
+    "library": "SkiaSharp",
+    "results": [
+      {
+        "LibraryName": "SkiaSharp",
+        "FileName": "sample_big.png",
+        "FileFormat": ".png",
+        "FileSize": 18215012,
+        "Ratio": 0.5,
+        "ElapsedTime": 2145.6887,
+        "IsSuccess": true,
+        "Message": null
+      },
+      {
+        "LibraryName": "SkiaSharp",
+        "FileName": "sample_big.png",
+        "FileFormat": ".png",
+        "FileSize": 18215012,
+        "Ratio": 2.0,
+        "ElapsedTime": 7597.0608,
+        "IsSuccess": true,
+        "Message": null
+      },
+      {
+        "LibraryName": "SkiaSharp",
+        "FileName": "sample_big.jpg",
+        "FileFormat": ".jpg",
+        "FileSize": 2440976,
+        "Ratio": 0.5,
+        "ElapsedTime": 1779.4431,
+        "IsSuccess": true,
+        "Message": null
+      },
+      {
+        "LibraryName": "SkiaSharp",
+        "FileName": "sample_big.jpg",
+        "FileFormat": ".jpg",
+        "FileSize": 2440976,
+        "Ratio": 2.0,
+        "ElapsedTime": 7096.4138,
+        "IsSuccess": true,
+        "Message": null
+      },
+      {
+        "LibraryName": "SkiaSharp",
+        "FileName": "sample_tiny.jpg",
+        "FileFormat": ".jpg",
+        "FileSize": 14953,
+        "Ratio": 0.5,
+        "ElapsedTime": 4.3281,
+        "IsSuccess": true,
+        "Message": null
+      },
+      {
+        "LibraryName": "SkiaSharp",
+        "FileName": "sample_tiny.jpg",
+        "FileFormat": ".jpg",
+        "FileSize": 14953,
+        "Ratio": 2.0,
+        "ElapsedTime": 18.8075,
+        "IsSuccess": true,
+        "Message": null
+      },
+      {
+        "LibraryName": "SkiaSharp",
+        "FileName": "sample_tiny.png",
+        "FileFormat": ".png",
+        "FileSize": 14251,
+        "Ratio": 0.5,
+        "ElapsedTime": 2.1866,
+        "IsSuccess": true,
+        "Message": null
+      },
+      {
+        "LibraryName": "SkiaSharp",
+        "FileName": "sample_tiny.png",
+        "FileFormat": ".png",
+        "FileSize": 14251,
+        "Ratio": 2.0,
+        "ElapsedTime": 14.1138,
+        "IsSuccess": true,
+        "Message": null
+      },
+      {
+        "LibraryName": "SkiaSharp",
+        "FileName": "sample_giant.tiff",
+        "FileFormat": ".tiff",
+        "FileSize": 115276800,
+        "Ratio": 0.5,
+        "ElapsedTime": 0.0,
+        "IsSuccess": false,
+        "Message": "Object reference not set to an instance of an object."
+      },
+      {
+        "LibraryName": "SkiaSharp",
+        "FileName": "sample_giant.tiff",
+        "FileFormat": ".tiff",
+        "FileSize": 115276800,
+        "Ratio": 2.0,
+        "ElapsedTime": 0.0,
+        "IsSuccess": false,
+        "Message": "Object reference not set to an instance of an object."
+      },
+      {
+        "LibraryName": "SkiaSharp",
+        "FileName": "sample_medium.jpg",
+        "FileFormat": ".jpg",
+        "FileSize": 468873,
+        "Ratio": 0.5,
+        "ElapsedTime": 234.6977,
+        "IsSuccess": true,
+        "Message": null
+      },
+      {
+        "LibraryName": "SkiaSharp",
+        "FileName": "sample_medium.jpg",
+        "FileFormat": ".jpg",
+        "FileSize": 468873,
+        "Ratio": 2.0,
+        "ElapsedTime": 900.1337,
+        "IsSuccess": true,
+        "Message": null
+      },
+      {
+        "LibraryName": "SkiaSharp",
+        "FileName": "sample_medium.png",
+        "FileFormat": ".png",
+        "FileSize": 2321396,
+        "Ratio": 0.5,
+        "ElapsedTime": 243.6777,
+        "IsSuccess": true,
+        "Message": null
+      },
+      {
+        "LibraryName": "SkiaSharp",
+        "FileName": "sample_medium.png",
+        "FileFormat": ".png",
+        "FileSize": 2321396,
+        "Ratio": 2.0,
+        "ElapsedTime": 865.6708,
+        "IsSuccess": true,
+        "Message": null
+      },
+      {
+        "LibraryName": "SkiaSharp",
+        "FileName": "sample_large.png",
+        "FileFormat": ".png",
+        "FileSize": 55368113,
+        "Ratio": 0.5,
+        "ElapsedTime": 3813.624,
+        "IsSuccess": true,
+        "Message": null
+      },
+      {
+        "LibraryName": "SkiaSharp",
+        "FileName": "sample_large.png",
+        "FileFormat": ".png",
+        "FileSize": 55368113,
+        "Ratio": 2.0,
+        "ElapsedTime": 15829.2172,
+        "IsSuccess": true,
+        "Message": null
+      },
+      {
+        "LibraryName": "SkiaSharp",
+        "FileName": "sample_large.jpg",
+        "FileFormat": ".jpg",
+        "FileSize": 18720689,
+        "Ratio": 0.5,
+        "ElapsedTime": 3339.047,
+        "IsSuccess": true,
+        "Message": null
+      },
+      {
+        "LibraryName": "SkiaSharp",
+        "FileName": "sample_large.jpg",
+        "FileFormat": ".jpg",
+        "FileSize": 18720689,
+        "Ratio": 2.0,
+        "ElapsedTime": 14948.5225,
+        "IsSuccess": true,
+        "Message": null
+      },
+      {
+        "LibraryName": "SkiaSharp",
+        "FileName": "sample_small.jpg",
+        "FileFormat": ".jpg",
+        "FileSize": 104050,
+        "Ratio": 0.5,
+        "ElapsedTime": 29.8985,
+        "IsSuccess": true,
+        "Message": null
+      },
+      {
+        "LibraryName": "SkiaSharp",
+        "FileName": "sample_small.jpg",
+        "FileFormat": ".jpg",
+        "FileSize": 104050,
+        "Ratio": 2.0,
+        "ElapsedTime": 116.5965,
+        "IsSuccess": true,
+        "Message": null
+      },
+      {
+        "LibraryName": "SkiaSharp",
+        "FileName": "sample_small.png",
+        "FileFormat": ".png",
+        "FileSize": 569339,
+        "Ratio": 0.5,
+        "ElapsedTime": 30.7413,
+        "IsSuccess": true,
+        "Message": null
+      },
+      {
+        "LibraryName": "SkiaSharp",
+        "FileName": "sample_small.png",
+        "FileFormat": ".png",
+        "FileSize": 569339,
+        "Ratio": 2.0,
+        "ElapsedTime": 118.412,
+        "IsSuccess": true,
+        "Message": null
+      }
+    ]
+  },
+  {
+    "library": "ImageSharp",
+    "results": [
+      {
+        "LibraryName": "ImageSharp",
+        "FileName": "sample_big.png",
+        "FileFormat": ".png",
+        "FileSize": 18215012,
+        "Ratio": 0.5,
+        "ElapsedTime": 10212.8347,
+        "IsSuccess": true,
+        "Message": null
+      },
+      {
+        "LibraryName": "ImageSharp",
+        "FileName": "sample_big.png",
+        "FileFormat": ".png",
+        "FileSize": 18215012,
+        "Ratio": 2.0,
+        "ElapsedTime": 77648.5948,
+        "IsSuccess": true,
+        "Message": null
+      },
+      {
+        "LibraryName": "ImageSharp",
+        "FileName": "sample_big.jpg",
+        "FileFormat": ".jpg",
+        "FileSize": 2440976,
+        "Ratio": 0.5,
+        "ElapsedTime": 12040.137,
+        "IsSuccess": true,
+        "Message": null
+      },
+      {
+        "LibraryName": "ImageSharp",
+        "FileName": "sample_big.jpg",
+        "FileFormat": ".jpg",
+        "FileSize": 2440976,
+        "Ratio": 2.0,
+        "ElapsedTime": 43913.5988,
+        "IsSuccess": true,
+        "Message": null
+      },
+      {
+        "LibraryName": "ImageSharp",
+        "FileName": "sample_tiny.jpg",
+        "FileFormat": ".jpg",
+        "FileSize": 14953,
+        "Ratio": 0.5,
+        "ElapsedTime": 116.7154,
+        "IsSuccess": true,
+        "Message": null
+      },
+      {
+        "LibraryName": "ImageSharp",
+        "FileName": "sample_tiny.jpg",
+        "FileFormat": ".jpg",
+        "FileSize": 14953,
+        "Ratio": 2.0,
+        "ElapsedTime": 130.1999,
+        "IsSuccess": true,
+        "Message": null
+      },
+      {
+        "LibraryName": "ImageSharp",
+        "FileName": "sample_tiny.png",
+        "FileFormat": ".png",
+        "FileSize": 14251,
+        "Ratio": 0.5,
+        "ElapsedTime": 252.5872,
+        "IsSuccess": true,
+        "Message": null
+      },
+      {
+        "LibraryName": "ImageSharp",
+        "FileName": "sample_tiny.png",
+        "FileFormat": ".png",
+        "FileSize": 14251,
+        "Ratio": 2.0,
+        "ElapsedTime": 651.0284,
+        "IsSuccess": true,
+        "Message": null
+      },
+      {
+        "LibraryName": "ImageSharp",
+        "FileName": "sample_giant.tiff",
+        "FileFormat": ".tiff",
+        "FileSize": 115276800,
+        "Ratio": 0.5,
+        "ElapsedTime": 0.0,
+        "IsSuccess": false,
+        "Message": "Image cannot be loaded. Available decoders:\n - PNG : PngDecoder\n - BMP : BmpDecoder\n - JPEG : JpegDecoder\n - GIF : GifDecoder\n - TGA : TgaDecoder\n"
+      },
+      {
+        "LibraryName": "ImageSharp",
+        "FileName": "sample_giant.tiff",
+        "FileFormat": ".tiff",
+        "FileSize": 115276800,
+        "Ratio": 2.0,
+        "ElapsedTime": 0.0,
+        "IsSuccess": false,
+        "Message": "Image cannot be loaded. Available decoders:\n - PNG : PngDecoder\n - BMP : BmpDecoder\n - JPEG : JpegDecoder\n - GIF : GifDecoder\n - TGA : TgaDecoder\n"
+      },
+      {
+        "LibraryName": "ImageSharp",
+        "FileName": "sample_medium.jpg",
+        "FileFormat": ".jpg",
+        "FileSize": 468873,
+        "Ratio": 0.5,
+        "ElapsedTime": 1806.8036,
+        "IsSuccess": true,
+        "Message": null
+      },
+      {
+        "LibraryName": "ImageSharp",
+        "FileName": "sample_medium.jpg",
+        "FileFormat": ".jpg",
+        "FileSize": 468873,
+        "Ratio": 2.0,
+        "ElapsedTime": 7199.5581,
+        "IsSuccess": true,
+        "Message": null
+      },
+      {
+        "LibraryName": "ImageSharp",
+        "FileName": "sample_medium.png",
+        "FileFormat": ".png",
+        "FileSize": 2321396,
+        "Ratio": 0.5,
+        "ElapsedTime": 1383.3586,
+        "IsSuccess": true,
+        "Message": null
+      },
+      {
+        "LibraryName": "ImageSharp",
+        "FileName": "sample_medium.png",
+        "FileFormat": ".png",
+        "FileSize": 2321396,
+        "Ratio": 2.0,
+        "ElapsedTime": 9099.0407,
+        "IsSuccess": true,
+        "Message": null
+      },
+      {
+        "LibraryName": "ImageSharp",
+        "FileName": "sample_large.png",
+        "FileFormat": ".png",
+        "FileSize": 55368113,
+        "Ratio": 0.5,
+        "ElapsedTime": 18189.136,
+        "IsSuccess": true,
+        "Message": null
+      },
+      {
+        "LibraryName": "ImageSharp",
+        "FileName": "sample_large.png",
+        "FileFormat": ".png",
+        "FileSize": 55368113,
+        "Ratio": 2.0,
+        "ElapsedTime": 148294.9959,
+        "IsSuccess": true,
+        "Message": null
+      },
+      {
+        "LibraryName": "ImageSharp",
+        "FileName": "sample_large.jpg",
+        "FileFormat": ".jpg",
+        "FileSize": 18720689,
+        "Ratio": 0.5,
+        "ElapsedTime": 27966.9197,
+        "IsSuccess": true,
+        "Message": null
+      },
+      {
+        "LibraryName": "ImageSharp",
+        "FileName": "sample_large.jpg",
+        "FileFormat": ".jpg",
+        "FileSize": 18720689,
+        "Ratio": 2.0,
+        "ElapsedTime": 102167.1661,
+        "IsSuccess": true,
+        "Message": null
+      },
+      {
+        "LibraryName": "ImageSharp",
+        "FileName": "sample_small.jpg",
+        "FileFormat": ".jpg",
+        "FileSize": 104050,
+        "Ratio": 0.5,
+        "ElapsedTime": 295.4089,
+        "IsSuccess": true,
+        "Message": null
+      },
+      {
+        "LibraryName": "ImageSharp",
+        "FileName": "sample_small.jpg",
+        "FileFormat": ".jpg",
+        "FileSize": 104050,
+        "Ratio": 2.0,
+        "ElapsedTime": 891.1262,
+        "IsSuccess": true,
+        "Message": null
+      },
+      {
+        "LibraryName": "ImageSharp",
+        "FileName": "sample_small.png",
+        "FileFormat": ".png",
+        "FileSize": 569339,
+        "Ratio": 0.5,
+        "ElapsedTime": 152.9469,
+        "IsSuccess": true,
+        "Message": null
+      },
+      {
+        "LibraryName": "ImageSharp",
+        "FileName": "sample_small.png",
+        "FileFormat": ".png",
+        "FileSize": 569339,
+        "Ratio": 2.0,
+        "ElapsedTime": 1574.2095,
+        "IsSuccess": true,
+        "Message": null
+      }
+    ]
+  },
+  {
+    "library": "System.Drawing",
+    "results": [
+      {
+        "LibraryName": "System.Drawing",
+        "FileName": "sample_big.png",
+        "FileFormat": ".png",
+        "FileSize": 18215012,
+        "Ratio": 0.5,
+        "ElapsedTime": 1482.0237,
+        "IsSuccess": true,
+        "Message": null
+      },
+      {
+        "LibraryName": "System.Drawing",
+        "FileName": "sample_big.png",
+        "FileFormat": ".png",
+        "FileSize": 18215012,
+        "Ratio": 2.0,
+        "ElapsedTime": 4250.2563,
+        "IsSuccess": true,
+        "Message": null
+      },
+      {
+        "LibraryName": "System.Drawing",
+        "FileName": "sample_big.jpg",
+        "FileFormat": ".jpg",
+        "FileSize": 2440976,
+        "Ratio": 0.5,
+        "ElapsedTime": 912.6904,
+        "IsSuccess": true,
+        "Message": null
+      },
+      {
+        "LibraryName": "System.Drawing",
+        "FileName": "sample_big.jpg",
+        "FileFormat": ".jpg",
+        "FileSize": 2440976,
+        "Ratio": 2.0,
+        "ElapsedTime": 4058.4132,
+        "IsSuccess": true,
+        "Message": null
+      },
+      {
+        "LibraryName": "System.Drawing",
+        "FileName": "sample_tiny.jpg",
+        "FileFormat": ".jpg",
+        "FileSize": 14953,
+        "Ratio": 0.5,
+        "ElapsedTime": 15.5786,
+        "IsSuccess": true,
+        "Message": null
+      },
+      {
+        "LibraryName": "System.Drawing",
+        "FileName": "sample_tiny.jpg",
+        "FileFormat": ".jpg",
+        "FileSize": 14953,
+        "Ratio": 2.0,
+        "ElapsedTime": 12.9704,
+        "IsSuccess": true,
+        "Message": null
+      },
+      {
+        "LibraryName": "System.Drawing",
+        "FileName": "sample_tiny.png",
+        "FileFormat": ".png",
+        "FileSize": 14251,
+        "Ratio": 0.5,
+        "ElapsedTime": 5.5296,
+        "IsSuccess": true,
+        "Message": null
+      },
+      {
+        "LibraryName": "System.Drawing",
+        "FileName": "sample_tiny.png",
+        "FileFormat": ".png",
+        "FileSize": 14251,
+        "Ratio": 2.0,
+        "ElapsedTime": 12.3767,
+        "IsSuccess": true,
+        "Message": null
+      },
+      {
+        "LibraryName": "System.Drawing",
+        "FileName": "sample_giant.tiff",
+        "FileFormat": ".tiff",
+        "FileSize": 115276800,
+        "Ratio": 0.5,
+        "ElapsedTime": 1710.4548,
+        "IsSuccess": true,
+        "Message": null
+      },
+      {
+        "LibraryName": "System.Drawing",
+        "FileName": "sample_giant.tiff",
+        "FileFormat": ".tiff",
+        "FileSize": 115276800,
+        "Ratio": 2.0,
+        "ElapsedTime": 8289.7526,
+        "IsSuccess": true,
+        "Message": null
+      },
+      {
+        "LibraryName": "System.Drawing",
+        "FileName": "sample_medium.jpg",
+        "FileFormat": ".jpg",
+        "FileSize": 468873,
+        "Ratio": 0.5,
+        "ElapsedTime": 160.1525,
+        "IsSuccess": true,
+        "Message": null
+      },
+      {
+        "LibraryName": "System.Drawing",
+        "FileName": "sample_medium.jpg",
+        "FileFormat": ".jpg",
+        "FileSize": 468873,
+        "Ratio": 2.0,
+        "ElapsedTime": 577.7246,
+        "IsSuccess": true,
+        "Message": null
+      },
+      {
+        "LibraryName": "System.Drawing",
+        "FileName": "sample_medium.png",
+        "FileFormat": ".png",
+        "FileSize": 2321396,
+        "Ratio": 0.5,
+        "ElapsedTime": 166.8901,
+        "IsSuccess": true,
+        "Message": null
+      },
+      {
+        "LibraryName": "System.Drawing",
+        "FileName": "sample_medium.png",
+        "FileFormat": ".png",
+        "FileSize": 2321396,
+        "Ratio": 2.0,
+        "ElapsedTime": 595.2899,
+        "IsSuccess": true,
+        "Message": null
+      },
+      {
+        "LibraryName": "System.Drawing",
+        "FileName": "sample_large.png",
+        "FileFormat": ".png",
+        "FileSize": 55368113,
+        "Ratio": 0.5,
+        "ElapsedTime": 2196.662,
+        "IsSuccess": true,
+        "Message": null
+      },
+      {
+        "LibraryName": "System.Drawing",
+        "FileName": "sample_large.png",
+        "FileFormat": ".png",
+        "FileSize": 55368113,
+        "Ratio": 2.0,
+        "ElapsedTime": 8874.0225,
+        "IsSuccess": true,
+        "Message": null
+      },
+      {
+        "LibraryName": "System.Drawing",
+        "FileName": "sample_large.jpg",
+        "FileFormat": ".jpg",
+        "FileSize": 18720689,
+        "Ratio": 0.5,
+        "ElapsedTime": 2063.6233,
+        "IsSuccess": true,
+        "Message": null
+      },
+      {
+        "LibraryName": "System.Drawing",
+        "FileName": "sample_large.jpg",
+        "FileFormat": ".jpg",
+        "FileSize": 18720689,
+        "Ratio": 2.0,
+        "ElapsedTime": 8547.1545,
+        "IsSuccess": true,
+        "Message": null
+      },
+      {
+        "LibraryName": "System.Drawing",
+        "FileName": "sample_small.jpg",
+        "FileFormat": ".jpg",
+        "FileSize": 104050,
+        "Ratio": 0.5,
+        "ElapsedTime": 29.5455,
+        "IsSuccess": true,
+        "Message": null
+      },
+      {
+        "LibraryName": "System.Drawing",
+        "FileName": "sample_small.jpg",
+        "FileFormat": ".jpg",
+        "FileSize": 104050,
+        "Ratio": 2.0,
+        "ElapsedTime": 74.79,
+        "IsSuccess": true,
+        "Message": null
+      },
+      {
+        "LibraryName": "System.Drawing",
+        "FileName": "sample_small.png",
+        "FileFormat": ".png",
+        "FileSize": 569339,
+        "Ratio": 0.5,
+        "ElapsedTime": 32.5146,
+        "IsSuccess": true,
+        "Message": null
+      },
+      {
+        "LibraryName": "System.Drawing",
+        "FileName": "sample_small.png",
+        "FileFormat": ".png",
+        "FileSize": 569339,
+        "Ratio": 2.0,
+        "ElapsedTime": 76.5324,
+        "IsSuccess": true,
+        "Message": null
+      }
+    ]
+  }
+]
